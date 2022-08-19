@@ -1,4 +1,4 @@
-### Hi there 👋, my name is Jingjing
+### Hi there 👋, my name is Jingjing Xu
 I am a software engineer who is passionate to expose myself to a multitude of cutting-edge technology and looking forward to applying my skill to software and web development.
 
 - 🔭 I’m currently working on data structure and algorithm
